@@ -12,7 +12,7 @@ public class CalculatorController extends SpringBootServletInitializer {
     @Override
     protected SpringBootApplicationBuilder configure(SpringBootApplicationBuilder application)
     {
-        return application.sources(CalculatorSpringBoot.class);
+        return application.sources(CalculatorController.class);
     }
 
     OperationModel operationModel = new OperationModel();

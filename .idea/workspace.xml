@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abf56ef3-14c1-409c-8f9f-b4360ed9f4c3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/CalculatorSpringBoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/CalculatorSpringBoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/controllers/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/controllers/CalculatorController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1516452702260</updated>
       <workItem from="1632646152084" duration="1859000" />
-      <workItem from="1632648437293" duration="402000" />
+      <workItem from="1632648437293" duration="590000" />
     </task>
     <servers />
   </component>
