@@ -8,7 +8,12 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 @Controller
-public class CalculatorController {
+public class CalculatorController extends SpringBootServletInitializer {
+    @Override
+    protected SpringBootApplicationBuilder configure(SpringBootApplicationBuilder application)
+    {
+        return application.sources(CalculatorSpringBoot.class);
+    }
 
     OperationModel operationModel = new OperationModel();
 
